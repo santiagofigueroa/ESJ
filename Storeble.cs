@@ -9,8 +9,7 @@ namespace Interview
     public class Storeble : IStoreable
     {
         IComparable IStoreable.Id {
-            get => throw new NotImplementedException(),
-            set => throw new NotImplementedException(); 
+            get => throw new NotImplementedException();  set => throw new NotImplementedException(); 
         }
     }
 }
