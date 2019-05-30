@@ -1,17 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-    [Testc]
-    class IRepositoryTest
+namespace Interview
+{
+    // Test class for IRespository
+    [TestClass]
+    public class IRepositoryTest
     {
-        [testm]
+        [TestMethod]
         public void getTest()
         {
 
         }
 
     }
+}
 
