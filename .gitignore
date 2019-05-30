@@ -1,0 +1,8 @@
+/obj/Debug/*.cache
+/obj/Debug/*.CopyComplete
+/obj/Debug/*.txt
+/obj/Debug/*.dll
+/obj/Debug/*.pdb
+/obj/Debug/*.cs
+/src/obj/Debug
+/.vs

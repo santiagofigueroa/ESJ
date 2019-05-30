@@ -11,7 +11,11 @@ namespace Interview
         // Started new collection.
         static void Main(string[] args)
         {
-
+            Repository repository = new Repository();
+            Console.WriteLine("Start Program");
+            Console.WriteLine();
+            Console.WriteLine();
+            repository.GetType();
 
         }
 
